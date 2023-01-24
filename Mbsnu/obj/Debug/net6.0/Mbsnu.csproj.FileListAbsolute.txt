@@ -1,0 +1,15 @@
+/home/user/PetApps/Mbsnu/bin/Debug/net6.0/Mbsnu
+/home/user/PetApps/Mbsnu/bin/Debug/net6.0/Mbsnu.deps.json
+/home/user/PetApps/Mbsnu/bin/Debug/net6.0/Mbsnu.runtimeconfig.json
+/home/user/PetApps/Mbsnu/bin/Debug/net6.0/Mbsnu.dll
+/home/user/PetApps/Mbsnu/bin/Debug/net6.0/Mbsnu.pdb
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/Mbsnu.csproj.AssemblyReference.cache
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/Mbsnu.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/Mbsnu.AssemblyInfoInputs.cache
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/Mbsnu.AssemblyInfo.cs
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/Mbsnu.csproj.CoreCompileInputs.cache
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/Mbsnu.dll
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/refint/Mbsnu.dll
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/Mbsnu.pdb
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/Mbsnu.genruntimeconfig.cache
+/home/user/PetApps/Mbsnu/obj/Debug/net6.0/ref/Mbsnu.dll
