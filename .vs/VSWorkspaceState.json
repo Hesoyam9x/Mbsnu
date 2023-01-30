@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net6.0\\runtimes\\unix",
+    "\\bin\\Debug\\net6.0\\runtimes\\unix\\lib",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net6.0",
+    "\\obj\\Release"
+  ],
+  "SelectedNode": "\\bin",
+  "PreviewInSolutionExplorer": false
+}
